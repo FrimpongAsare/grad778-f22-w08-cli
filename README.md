@@ -1,1 +1,1 @@
-My favorite food is Jollof 
+My favorite food is Jollof + fried rice
